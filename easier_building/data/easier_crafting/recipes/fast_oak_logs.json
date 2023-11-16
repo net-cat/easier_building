@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "fast_logs",
+    "pattern": [
+        "###",
+        "#O#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bone_meal"
+        },
+        "O": {
+            "item": "minecraft:oak_sapling"
+        }
+    },
+    "result": {
+        "item": "minecraft:oak_log",
+        "count": 6
+    }
+}

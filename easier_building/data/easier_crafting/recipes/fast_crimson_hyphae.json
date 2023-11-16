@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "fast_logs",
+    "pattern": [
+        "###",
+        "#C#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bone_meal"
+        },
+        "C": {
+            "item": "minecraft:crimson_fungus"
+        }
+    },
+    "result": {
+        "item": "minecraft:crimson_hyphae",
+        "count": 6
+    }
+}

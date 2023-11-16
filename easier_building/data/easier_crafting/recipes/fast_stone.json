@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:stonecutting",
+    "group": "fast_stone",
+    "ingredient": {
+        "item": "minecraft:cobblestone"
+    },
+    "result": "minecraft:stone",
+    "count": 1
+}
+

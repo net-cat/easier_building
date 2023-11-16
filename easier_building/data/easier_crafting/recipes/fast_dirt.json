@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "dirt",
+    "ingredients": [
+        {
+            "item": "minecraft:grass_block"
+        }
+    ],
+    "result": {
+        "item": "minecraft:dirt",
+        "count": 1
+    }
+}

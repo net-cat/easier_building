@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "fast_logs",
+    "pattern": [
+        "###",
+        "#J#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bone_meal"
+        },
+        "J": {
+            "item": "minecraft:jungle_sapling"
+        }
+    },
+    "result": {
+        "item": "minecraft:jungle_log",
+        "count": 6
+    }
+}
