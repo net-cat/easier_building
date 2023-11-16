@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "fast_stone",
+    "ingredients": [
+        {
+            "item": "minecraft:lava_bucket"
+        },
+        {
+            "item": "minecraft:water_bucket"
+        }
+    ],
+    "result": {
+        "item": "minecraft:stone",
+        "count": 64
+    },
+    "group": "Easier Building"
+}

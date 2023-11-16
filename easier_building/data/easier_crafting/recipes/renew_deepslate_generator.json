@@ -1,6 +1,6 @@
 {
     "type": "minecraft:crafting_shapeless",
-    "group": "fast_stone",
+    "group": "fast_cobbled_deepslate",
     "ingredients": [
         {
             "item": "minecraft:lava_bucket"
@@ -18,7 +18,7 @@
 	]
     ],
     "result": {
-        "item": "minecraft:deepslate",
+        "item": "minecraft:cobbled_deepslate",
         "count": 64
     }
 }

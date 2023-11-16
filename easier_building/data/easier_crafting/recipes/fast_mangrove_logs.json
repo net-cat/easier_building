@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "fast_logs",
+    "pattern": [
+        "###",
+        "#O#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bone_meal"
+        },
+        "O": {
+            "item": "minecraft:mangrove_sapling"
+        }
+    },
+    "result": {
+        "item": "minecraft:mangrove_log",
+        "count": 6
+    }
+}

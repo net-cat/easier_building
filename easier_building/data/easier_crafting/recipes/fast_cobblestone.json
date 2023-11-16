@@ -1,6 +1,6 @@
 {
     "type": "minecraft:stonecutting",
-    "group": "fast_stone",
+    "group": "fast_cobblestone",
     "ingredient": {
         "item": "minecraft:stone"
     },

@@ -1,6 +1,6 @@
 {
     "type": "minecraft:crafting_shapeless",
-    "group": "fast_stone",
+    "group": "fast_blackstone",
     "ingredients": [
         {
             "item": "minecraft:lava_bucket"

@@ -3,11 +3,11 @@
   "group": "planks",
   "ingredients": [
     {
-      "tag": "minecraft:jungle_logs"
+      "tag": "minecraft:mangrove_logs"
     }
   ],
   "result": {
-    "item": "minecraft:jungle_planks",
+    "item": "minecraft:mangrove_planks",
     "count": 16
   }
 }

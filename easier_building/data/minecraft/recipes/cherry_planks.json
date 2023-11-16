@@ -3,11 +3,11 @@
   "group": "planks",
   "ingredients": [
     {
-      "tag": "minecraft:jungle_logs"
+      "tag": "minecraft:cherry_logs"
     }
   ],
   "result": {
-    "item": "minecraft:jungle_planks",
+    "item": "minecraft:cherry_planks",
     "count": 16
   }
 }
